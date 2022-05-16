@@ -1,0 +1,14 @@
+empid,fname,lname,jobid,salary,managerid,deptid
+100,steven,KING,AD_PRES,24000,NULL,90
+101,Neena,Kochhar,AD_VP,17000,100,90
+102,Lexa,De Haan,AD_VP,17000,100,90
+103,Alexander,Hunold,IT_PROG,9000,102,60
+104,Neena,Kochhar,AD_VP,17000,100,90
+104,Bruce,Ernst,IT_PROG,6000,103,60
+105,David,Austin,IT_PROG,4800,103,60
+106,Valli,Pataballa,IT_PROG,4800,103,60
+107,Diana,Lorentz,IT_PROG,4200,103,60
+108,Nancy,Greenberg,FI_MGR,12008,101,100
+109,Daniel,Faviet,FI_ACCOUNT,9000,108,100
+110,John,Chen,FI_ACCOUNT,8200,108,100
+111,Ismael,Sciarra,FI_ACCOUNT,7700,108,100
