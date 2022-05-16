@@ -10,3 +10,9 @@ if 5 > 2:
   
 output:
 Five is greater than two!
+
+x = 5
+print(type(x)) 
+
+output:
+<class 'float'>
