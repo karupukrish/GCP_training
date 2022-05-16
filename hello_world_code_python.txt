@@ -2,5 +2,11 @@ This program prints Hello, world!
 
 print('Hello, world!')
 
-output
+output:
 Hello world
+
+if 5 > 2:
+  print("Five is greater than two!")
+  
+output:
+Five is greater than two!
